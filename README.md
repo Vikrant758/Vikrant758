@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web Development and Mobile Application Development
 - 🌱 I have learned Python, Dart, JavaScript, Django, Flutter, AngularJS
 
-![Screenshot 2023-02-07 at 4 41 38 PM](https://user-images.githubusercontent.com/77771129/217229519-698a5ca4-2618-46c6-8147-7bb737c5418a.png)
+![Screenshot 2023-06-10 at 11 03 16 AM](https://github.com/Vikrant758/Vikrant758/assets/77771129/55e6fbb6-233d-405a-b8cc-fc325d39a06a)
